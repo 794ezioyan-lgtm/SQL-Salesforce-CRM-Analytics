@@ -6,7 +6,8 @@ An end-to-end CRM sales analytics project combining relational database analysis
 
 ## Executive Dashboard
 
-![CRM Sales Performance Executive Overview](CRM.png)
+<!-- Power BI Executive Dashboard -->
+<img src="CRM.png" width="700">
 
 ## Key Performance Indicators
 
@@ -68,37 +69,43 @@ CRM datasets were imported into Salesforce objects and used to build reports and
 
 ### Salesforce Dashboard
 
-![Salesforce CRM Dashboard](sf_dashboard.png)
+<!-- Salesforce Dashboard -->
+<img src="sf_dashboard.png" width="700">
 
 The dashboard includes opportunity stage distribution, monthly won revenue, top customer accounts, and sales agent performance.
 
 ### Sales Agent Performance
 
-![Sales Agent Performance Report](Agent_R.png)
+<!-- Sales Agent Performance -->
+<img src="Agent_R.png" width="600">
 
 Ranks sales agents using opportunity and revenue data.
 
 ### Sales Pipeline Performance
 
-![Sales Pipeline Performance Report](pipeline_R.png)
+<!-- Sales Pipeline Performance -->
+<img src="pipeline_R.png" width="600">
 
 Examines opportunities across pipeline stages.
 
 ### Monthly Won Revenue
 
-![Monthly Won Revenue Report](revenue_R.png)
+<!-- Monthly Revenue Report -->
+<img src="revenue_R.png" width="600">
 
 Tracks closed-won sales performance across reporting months.
 
 ### Top Customer Accounts
 
-![Top Accounts by Revenue Report](topacc_R.png)
+<!-- Top Customer Accounts -->
+<img src="topacc_R.png" width="600">
 
 Supports account-level revenue concentration analysis.
 
 ## Power BI Executive Dashboard
 
-![Power BI CRM Executive Dashboard](CRM.png)
+<!-- Power BI Executive Dashboard -->
+<img src="CRM.png" width="600">
 
 The interactive Power BI report includes:
 
